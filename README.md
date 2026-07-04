@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dasakhilesh
-- 👀 I’m interested in Project Management & DevOps
-- 🌱 I’m currently learning how GitHub can benifit PM and Devops practices
-- 💞️ I’m looking to collaborate on Project Management & DevOps
+- 👀 I’m interested in Cybersecurity, AI Goverannce, AI security and Quantum
+- 🌱 I’m currently learning how GitHub can benifit Cybersecurity and AI Goverannce practicies
+- 💞️ I’m looking to collaborate on Cybersecurity, AI Goverannce, AI security and Quantum
 - 📫 How to reach me das.akhilesh@yahoo.com
 
 <!---
